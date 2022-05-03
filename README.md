@@ -14,4 +14,4 @@ This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
 Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
 
 
-My website URL is Margret-Jaison.github.io/intro-html
+My website URL is https://Margret-Jaison.github.io/intro-html
